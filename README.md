@@ -1,4 +1,4 @@
-# LoRa communication with ESP32 & RFM95 real-time demonstration.
+# LoRa communication with ESP32 & RFM96 real-time demonstration.
 
 <p align="center">
     <img src="images/Project_Picture.jpeg">
