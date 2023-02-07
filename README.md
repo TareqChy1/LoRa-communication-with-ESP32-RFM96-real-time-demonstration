@@ -28,7 +28,7 @@ For doing this project we need the following components:
 
 ## ESP32_LoRa_Sender Code:
 <p align="justify">
-Lora Communication frequency changes from country to country. We can check the frequency of the Lora allowed in our country by visiting the following [link](https://www.thethingsindustries.com/docs/reference/frequency-plans/). Check your country’s allowed frequency and use the same frequency.
+Lora Communication frequency changes from country to country. We can check the frequency of the Lora allowed in our country by visiting the following Link: https://www.thethingsindustries.com/docs/reference/frequency-plans/. Check your country’s allowed frequency and use the same frequency.
 
 You will find the ESP32_LoRa_Sender Code in the Sender folder. Please check in the Sender folder of this repository.
 <p>
