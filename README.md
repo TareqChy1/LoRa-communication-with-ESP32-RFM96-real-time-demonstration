@@ -1,9 +1,5 @@
 # LoRa communication with ESP32 & RFM96.
 
-<p align="center">
-    <img src="images/Project_Picture.jpeg">
-</p>
-
 ## Project Overview:
 <p align="justify">
 In this project I developed 2 devices for a real-time demonstration of LoRa Communication with RFM96 LoRa module and Adafruit_HUZZAH32_ESP32_Feather. These simple LoRa devices are based on point-to-point Lora communication topology. In point-to-point communication, two LoRa enabled devices will talk with each other using RF signals.
